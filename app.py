@@ -1,8 +1,9 @@
 a = 'Hello'
-b = 'World'
+b = 'мир!'
 print (a, b)
 print ('Версия 2')
 
+3333333333
 print ('Версия 3')
 print ('Версия 4')
 print ('Версия 5')
