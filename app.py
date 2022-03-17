@@ -1,5 +1,5 @@
 a = 'Hello'
-b = 'World'
+b = 'АД'
 print (a, b)
 print ('Версия 2')
 
